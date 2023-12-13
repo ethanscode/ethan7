@@ -1,2 +1,1 @@
-¯\_(ツ)_/¯
-¯\_(ツ)_/¯
+Something to play around with Azure.
